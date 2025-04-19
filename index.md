@@ -3,7 +3,7 @@ layout: default
 title: ByteCode | DSA for Coders
 ---
 
-# 👋 Welcome to ByteCode
+# 👋 Welcome to GoByteCode
 
 **ByteCode** is your guide to mastering **Data Structures & Algorithms** with real-world problems from top tech companies.
 
@@ -35,4 +35,4 @@ Join me and build your way to becoming a pro developer.
 
 ---
 
-_– Sanjeet, Founder of ByteCode_
+_– Sanjeet, Founder of GoByteCode_

@@ -1,5 +1,22 @@
-title: ByteCode
-description: Master Data Structures and Algorithms
-theme: jekyll-theme-minimal
-show_downloads: false
+title: GoByteCode
+description: Become a great programmer, one problem at a time 💻🚀
+author: Sanjeet Roy
+baseurl: "" # leave empty for GitHub Pages
+url: "https://sanjeetkroy.github.io"
+theme: alembic-jekyll-theme
 
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-remote-theme
+
+remote_theme: daviddarnes/alembic
+
+# Add navigation links
+navigation:
+  - title: Home
+    url: /
+  - title: Blog
+    url: /blog/
+  - title: About
+    url: /about/
