@@ -4,7 +4,7 @@ title: "Why You Should Learn DSA"
 date: 2025-04-19
 author: Sanjeet
 categories: [DSA, Career]
-image: /assets/images/why-learn-dsa-banner.jpg
+image: /assets/images/why-learn-dsa-banner.png
 ---
 
 > *“Bad programmers worry about the code. Good programmers worry about data structures and their relationships.”* – Linus Torvalds
@@ -26,7 +26,7 @@ image: /assets/images/why-learn-dsa-banner.jpg
 
 ### 1. 🚪 Crack Top Tech Interviews
 
-FAANG, Microsoft, Adobe, and top startups love DSA-heavy interviews.  
+FAANG, Microsoft, Adobe, and top startups love DSA-heavy interviews.
 Mastering DSA helps you:
 
 - Solve problems confidently
@@ -72,16 +72,16 @@ Used in:
 
 ## 🔥 TL;DR
 
-✅ Crack tech interviews  
-✅ Level up your dev thinking  
-✅ Code smarter  
+✅ Crack tech interviews
+✅ Level up your dev thinking
+✅ Code smarter
 ✅ Build cooler stuff
 
 ---
 
 ### 📍 Start Today with ByteCode
 
-💡 [Back to Home](../index.md)  
+💡 [Back to Home](../index.md)
 📺 [Watch the YouTube series](#)
 
 ---

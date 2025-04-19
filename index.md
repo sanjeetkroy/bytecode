@@ -22,7 +22,7 @@ title: ByteCode | DSA for Coders
 
 ## 🚀 Start Here
 
-- [Why You Should Learn DSA](#)
+- [Why You Should Learn DSA](_posts/2025-04-19-why-you-should-learn-dsa.md)
 - [Top 25 Coding Patterns to Know](#)
 - [Two Sum – Deep Dive](#)
 
@@ -30,7 +30,7 @@ title: ByteCode | DSA for Coders
 
 ## ✨ Stay in the Loop
 
-I’m publishing **2 videos & 2 blogs** every week.  
+I’m publishing **2 videos & 2 blogs** every week.
 Join me and build your way to becoming a pro developer.
 
 ---
